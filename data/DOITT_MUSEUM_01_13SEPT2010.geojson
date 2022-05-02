@@ -1,0 +1,72 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Red Rock Canyon Trail at Whiting Ranch Regional Park", "TEL": "949-923-2245", "URL": "https://ocparks.com/parks-trails/whiting-ranch-wilderness-park", "ADRESS1": "26701 Portola Pkwy, Lake Forest, CA 92610", "ADDRESS2": null, "CITY": "Lake Forest", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ -117.664572, 33.681238 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Bommer Canyon Trail", "TEL": "+19497246738", "URL": "https://www.cityofirvine.org/parks-facilities/bommer-canyon", "ADRESS1": "6400 Shady Canyon Trail, Irvine, CA 92603", "ADDRESS2": null, "CITY": "Irvine", "ZIP": 10305.0 }, "geometry": { "type": "Point", "coordinates": [ -117.80257701873778, 33.61651344068931 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Buck Gully Trail", "TEL": "949-644-3151", "URL": "https://www.newportbeachca.gov/government/departments/recreation-senior-services/parks-and-facilities/buck-gully", "ADRESS1": "San Joaquin Hills Rd Newport Beach, CA 92625", "ADDRESS2": null, "CITY": "Newport Beach", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -117.8618001937866, 33.5973019877862 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Huntington Beach Central Park Trails", "TEL": "(714) 960-8839", "URL": "https://huntingtonbeachca.gov/residents/parks_facilities/parks/huntington-beach-central-park.cfm", "ADRESS1": "18002 Goldenwest St, Huntington Beach, CA 92647", "ADDRESS2": null, "CITY": "Huntington Beach", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -118.00449371337889, 33.70302800988349 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Santiago Oaks Regional Park Trail", "TEL": "+17149736620", "URL": "http://www.ocparks.com/santiagooaks/", "ADRESS1": "2145 Windes Dr, Orange, CA 92869", "ADDRESS2": null, "CITY": "Orange", "ZIP": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -117.77491807937622, 33.82170969489718 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "Oak Canyon Nature Center Trail", "TEL": "+17149988380", "URL": "http://www.anaheim.net/1096/Oak-Canyon-Nature-Center", "ADRESS1": "6700 E Walnut Canyon Rd, Anaheim, CA 92807", "ADDRESS2": null, "CITY": "Anaheim", "ZIP": 10024.0 }, "geometry": { "type": "Point", "coordinates": [ -117.75592803955077, 33.83687867356177 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "Carbon Canyon Regional Park Redwoods Trail", "TEL": "714-973-3160 or 714-973-3162", "URL": "https://www.ocparks.com/parks-trails/carbon-canyon-regional-park", "ADRESS1": "4442 Carbon Canyon Rd, Brea, CA 92823, South Parking Lot", "ADDRESS2": "11th Floor", "CITY": "Brea", "ZIP": 10013.0 }, "geometry": { "type": "Point", "coordinates": [ -117.83523559570312, 33.91469540105239 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "NAME": "Black Star Canyon Falls Trail", "TEL": "714-973-6696", "URL": "https://www.ocparks.com/parks-trails/irvine-ranch-open-space", "ADRESS1": "11893-, 12247 Black Star Canyon Rd, Silverado, CA 92676", "ADDRESS2": null, "CITY": "NSilverado", "ZIP": 10021.0 }, "geometry": { "type": "Point", "coordinates": [ -117.67207145690918, 33.77700706429133 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "NAME": "San Joaquin Marsh Trails", "TEL": "+19494535300", "URL": "https://www.irwd.com/san-joaquin-marsh", "ADRESS1": "Parking lot, 5 Riparian View, Irvine, CA 92612", "ADDRESS2": "5th Floor", "CITY": "Irvine", "ZIP": 10012.0 }, "geometry": { "type": "Point", "coordinates": [ -117.84183382987976, 33.660683531902045 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "NAME": "Oso Creek Park Trail", "TEL": "(949) 470-3061", "URL": "https://oso-creek.weebly.com/", "ADRESS1": "24932 Veterans Way, Mission Viejo, CA 92692, USA", "ADDRESS2": null, "CITY": "Mission Viejo", "ZIP": 10021.0 }, "geometry": { "type": "Point", "coordinates": [ -117.65142917633058, 33.60182376607769 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "NAME": "Serrano Creek Park Walk", "TEL": "+19494613450", "URL": "http://lakeforestca.gov/Facilities/Facility/Details/Serrano-Creek-Park-23", "ADRESS1": "25101 Serrano Rd, Lake Forest, CA 92630", "ADDRESS2": null, "CITY": "Lake Forest", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -117.69146919250487, 33.64763583889387] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "NAME": "Wilderness Glen Park Trail Walk", "TEL": "+19494703064", "URL": "https://cityofmissionviejo.org/places/trail-heads/wilderness-glen-wilderness-glen-trailhead", "ADRESS1": "22500 Los Alisos Blvd, Mission Viejo, CA 92691", "ADDRESS2": "Pelham Bay Park", "CITY": "Mission Viejo", "ZIP": 10464.0 }, "geometry": { "type": "Point", "coordinates": [ -117.66074180603027, 33.638453935749574 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "NAME": "Eaton Canyon Falls Trail", "TEL": "+16263985420", "URL": "https://parks.lacounty.gov/eaton-canyon-natural-area-and-nature-center", "ADRESS1": "1750 N Altadena Dr, Pasadena, CA 91107", "ADDRESS2": null, "CITY": "Pasadena", "ZIP": 11354.0 }, "geometry": { "type": "Point", "coordinates": [ -118.09635400772096, 34.17536433558496 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "NAME": "Bridge To Nowhere Hike via East Fork Trail", "TEL": "(747) 322-6574 or (626)-574-1613", "URL": "https://www.fs.usda.gov/recarea/angeles/recarea/?recid=42066", "ADRESS1": "Camp Bonita Rd, La Verne, CA 91750 (Angeles National Forest)", "ADDRESS2": null, "CITY": "La Verne", "ZIP": 10467.0 }, "geometry": { "type": "Point", "coordinates": [ -117.77978897094727, 34.141787855774346 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "NAME": "Trail Canyon Falls Hike", "TEL": "(747) 322-6574 or (626)-574-1613", "URL": "https://www.fs.usda.gov/recarea/angeles/recarea/?recid=41940", "ADRESS1": "Big Tujunga Canyon Rd, Shadow Hills, CA 91040 (Angeles National Forest)", "ADDRESS2": null, "CITY": "Bronx", "ZIP": 10456.0 }, "geometry": { "type": "Point", "coordinates": [ -118.25417518615723, 34.272325451569216 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "NAME": "Upper Franklin Canyon Park Walk", "TEL": "(310) 858-7272", "URL": "https://mrca.ca.gov/parks/park-listing/franklin-canyon-park/", "ADRESS1": "2600 Franklin Canyon Dr, Beverly Hills, CA 90210", "ADDRESS2": null, "CITY": "Tujunga", "ZIP": 11213.0 }, "geometry": { "type": "Point", "coordinates": [ -118.41184616088867, 34.12217912790942 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "NAME": "Topanga State Park Trails", "TEL": "+13104552465", "URL": "https://www.parks.ca.gov/?page_id=629", "ADRESS1": "20828 Entrada Rd, Topanga, CA 90290", "ADDRESS2": null, "CITY": "Topanga", "ZIP": 11201.0 }, "geometry": { "type": "Point", "coordinates": [ -118.62582206726074, 34.09055402834848 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "NAME": "Sturtevant Falls to Hermit Falls Trail", "TEL": "(747) 322-6574 or (626)-574-1613", "URL": "https://www.fs.usda.gov/recarea/angeles/recreation/recarea/?recid=42036&actid=104", "ADRESS1": "Chantry Flat Parking Lot, Chantry Flat Rd, Arcadia, CA 91006 (Angeles National Forest)", "ADDRESS2": null, "CITY": "Angeles National Forest", "ZIP": 11238.0 }, "geometry": { "type": "Point", "coordinates": [-118.01942825317383, 34.21173117870436 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "NAME": "Mount Woodson Rd to Potato Chip Rock", "TEL": "858-668-4570", "URL": "https://poway.org/502/Trails-Hiking", "ADRESS1": "16310 CA-67, Ramona, CA 92065", "ADDRESS2": null, "CITY": "Vista", "ZIP": 10011.0 }, "geometry": { "type": "Point", "coordinates": [-116.97452545166014, 33.00967116126143 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "NAME": "Fullerton Arboretum", "TEL": "+16572783407", "URL": "http://www.fullertonarboretum.org/", "ADRESS1": "1900 Associated Rd, Fullerton, CA 92831", "ADDRESS2": null, "CITY": "Fullerton", "ZIP": 10024.0 }, "geometry": { "type": "Point", "coordinates": [ -117.8834080696106, 33.886715916608395 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "NAME": "El Dorado Nature Center", "TEL": "+15625701745", "URL": "http://www.longbeach.gov/park/park-and-facilities/parks-centers-pier/el-dorado-nature-center/", "ADRESS1": "7550 E Spring St, Long Beach, CA 90815", "ADDRESS2": null, "CITY": "Long Beach", "ZIP": 10012.0 }, "geometry": { "type": "Point", "coordinates": [ -118.08671951293944, 33.823082321922676 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "NAME": "Bolsa Chica State Marsh Walks", "TEL": "+17148461114", "URL": "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Bolsa-Chica-ER", "ADRESS1": "18000 CA-1, Huntington Beach, CA 92648", "ADDRESS2": null, "CITY": "Huntington Beach", "ZIP": 10040.0 }, "geometry": { "type": "Point", "coordinates": [ -118.03436279296875, 33.701492795584365 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "NAME": "The Grotto Trails", "TEL": "+18053702301", "URL": "https://www.nps.gov/samo/planyourvisit/circlexranch.htm", "ADRESS1": "12896 Yerba Buena Rd, Malibu, CA 90265 (Circle X Ranch ran by the National Park Service)", "ADDRESS2": null, "CITY": "Malibu", "ZIP": 11224.0 }, "geometry": { "type": "Point", "coordinates": [ -118.92779588699341, 34.09869240254523 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "NAME": "Newton Canyon Falls Trail", "TEL": "+18053702301", "URL": "http://www.nps.gov/samo/planyourvisit/zumatrancascanyons.htm", "ADRESS1": "1689 Kanan Dume Rd, Malibu, CA 90265 (located in the Zuma & Trancas Cyns maintained by the National Park Service)", "ADDRESS2": null, "CITY": "Malibu", "ZIP": 10128.0 }, "geometry": { "type": "Point", "coordinates": [ -118.81657004356384, 34.07719864708765 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "NAME": "Mentally Sensitive to Meadows Trail", "TEL": "(949) 923-2200", "URL": "https://www.ocparks.com/parks-trails/aliso-and-wood-canyons-wilderness-park", "ADRESS1": "28373 Alicia Parkway Laguna Niguel, CA 92677", "ADDRESS2": null, "CITY": "Laguna Beach", "ZIP": 10022.0 }, "geometry": { "type": "Point", "coordinates": [ -117.74785995483397, 33.535814466380394 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "NAME": "Wood Canyon and Wood Creek Trails", "TEL": "(949) 923-2200", "URL": "https://www.ocparks.com/parks-trails/aliso-and-wood-canyons-wilderness-park", "ADRESS1": "28373 Alicia Parkway Laguna Niguel, CA 92677", "ADDRESS2": null, "CITY": "Aliso Viejo", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -117.74747371673584, 33.57901585827334 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "NAME": "West Ridge Trail to the Top of the World Viewpoint", "TEL": "(949) 923-2200", "URL": "https://www.ocparks.com/parks-trails/aliso-and-wood-canyons-wilderness-park", "ADRESS1": "28373 Alicia Parkway Laguna Niguel, CA 92677", "ADDRESS2": null, "CITY": "Laguna Beach", "ZIP": 10011.0 }, "geometry": { "type": "Point", "coordinates": [ -117.75712966918944, 33.57072057871327 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "NAME": "OC Parks-Aliso Summit Trail/Service Road Trail", "TEL": "(949) 923-2200", "URL": "https://www.ocparks.com/parks-trails/aliso-and-wood-canyons-wilderness-park", "ADRESS1": "28373 Alicia Parkway Laguna Niguel, CA 92677", "ADDRESS2": null, "CITY": "Aliso Viejo", "ZIP": 1036.0 }, "geometry": { "type": "Point", "coordinates": [ -117.73764610290527, 33.52465298052027 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "NAME": "Irvine Ranch Open Space Preserve - East Sinks", "TEL": "714-973-6696", "URL": "https://www.ocparks.com/parks-trails/irvine-ranch-open-space", "ADRESS1": "13333 Black Star Canyon Rd Silverado, CA 92676", "ADDRESS2": null, "CITY": "Irvine", "ZIP": 10013.0 }, "geometry": { "type": "Point", "coordinates": [ -117.66428232192993, 33.71564785956501] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "NAME": "Irvine Ranch Open Space Preserve - West Sinks", "TEL": "714-973-6696", "URL": "https://www.ocparks.com/parks-trails/irvine-ranch-open-space", "ADRESS1": "13333 Black Star Canyon Rd Silverado, CA 92676", "ADDRESS2": null, "CITY": "Irvine", "ZIP": 10034.0 }, "geometry": { "type": "Point", "coordinates": [ -117.6721465587616, 33.717263137836795 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "NAME": "Irvine Ranch Open Space Preserve - Red Rocks", "TEL": "714-973-6696", "URL": "https://www.ocparks.com/parks-trails/irvine-ranch-open-space", "ADRESS1": "13333 Black Star Canyon Rd Silverado, CA 92676", "ADDRESS2": null, "CITY": "Irvine", "ZIP": 10012.0 }, "geometry": { "type": "Point", "coordinates": [ -117.68327236175537, 33.760953357390825 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "NAME": "Bike the Boardwalk (rentals available at Balboa Beach Bicycle Boutique among others)", "TEL": "+19492204884", "URL": "http://www.balboabeachandbicycle.com/", "ADRESS1": "204 Washington St #A, Newport Beach, CA 92661", "ADDRESS2": null, "CITY": "Newport Beach", "ZIP": 10029.0 }, "geometry": { "type": "Point", "coordinates": [ -117.89926260709761, 33.602094082269126 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "NAME": "Laurel Canyon Waterfall Trail", "TEL": "+19494978324", "URL": "https://www.ocparks.com/parks-trails/laguna-coast-wilderness-park", "ADRESS1": "Willow Staging Parking Area - Laguna Beach, CA 92651", "ADDRESS2": null, "CITY": "Laguna Beach", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ -117.77146607637404, 33.592609051665804 ] } }
+
+]
+}

@@ -1,0 +1,784 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "id":0,
+         "properties":{
+            "NAME":"Irvine Regional Park Deer Den Picnic Area",
+            "TEL":"714-973-6835",
+            "URL":"https://www.ocparks.com/irvinepark",
+            "ADDRESS1":"1 Irvine Park Rd. Orange, CA 92869",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "photo1":"assets/img/gatheringspaces/deerden/20211009_184137_HDR.jpg",
+            "photo2":"assets/img/gatheringspaces/deerden/20211009_184204.jpg",
+            "photo3":"assets/img/gatheringspaces/deerden/20211009_185002_HDR.jpg",
+            "photo4":"assets/img/gatheringspaces/deerden/20211009_185029_HDR.jpg",
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.74949073791504,
+               33.794912316673624
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":1,
+         "properties":{
+            "NAME":"Santiago Oaks Regional Park: Event Spaces & Picnic Areas",
+            "TEL":"714-973-6620 or 714-973-6622",
+            "URL":"https://ocparks.com/parks-trails/santiago-oaks-regional-park",
+            "ADDRESS1":"2145 N. Windes Drive Orange, CA 92869",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "photo1":"assets/img/gatheringspaces/santiagooaks/20211008_134820_HDR.jpg",
+            "photo2":"assets/img/gatheringspaces/santiagooaks/20211008_134901_HDR.jpg",
+            "photo3":"assets/img/gatheringspaces/santiagooaks/20211008_134926_HDR.jpg",
+            "photo4":"assets/img/gatheringspaces/santiagooaks/20211008_140549_HDR.jpg",
+            "photo5":"assets/img/gatheringspaces/santiagooaks/20211008_140719_HDR.jpg",
+            "USE1":"parties",
+            "USE2":"picnics",
+            "USE3":"weddings"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.77491807937622,
+               33.82170969489718
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":2,
+         "properties":{
+            "NAME":"Oak Canyon Nature Center Event Space",
+            "TEL":"714-998-8380",
+            "URL":"https://www.anaheim.net/1124/Weddings-and-Facility-Rentals",
+            "ADDRESS1":"6700 E Walnut Canyon Road Anaheim, CA 92807",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10022,
+            "photo4":"",
+            "photo1":"assets/img/gatheringspaces/oakcyn/IMG_1101.JPG",
+            "photo2":"assets/img/gatheringspaces/oakcyn/IMG_1110.JPG",
+            "photo3":"assets/img/gatheringspaces/oakcyn/IMG_1106.JPG",
+            "USE1":"",
+            "USE3":"weddings"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.75592803955077,
+               33.83687867356177
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":3,
+         "properties":{
+            "NAME":"Bommer Canyon Cattle Camp",
+            "TEL":"949-724-6620",
+            "URL":"https://www.cityofirvine.org/parks-facilities/bommer-canyon-community-park-cattle-camp",
+            "ADDRESS1":"6400 Shady Canyon Trail, Irvine",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "photo1":"assets/img/gatheringspaces/bommercyn/IMG_1966.JPG",
+            "USE1":"parties",
+            "USE3":"weddings"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.80588150024413,
+               33.62839559137965
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":4,
+         "properties":{
+            "NAME":"Carbon Canyon Regional Park: Armstrong Grove",
+            "TEL":"714.973.3160/714.973.3162",
+            "URL":"https://www.ocparks.com/parks-trails/carbon-canyon-regional-park",
+            "ADDRESS1":"4442 Carbon Cyn Rd Brea, CA 92823",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "photo1":"assets/img/gatheringspaces/carboncyn/CE0FDAAB-74D6-44F8-9667-90DD1A63A36A.jpeg",
+            "photo2":"assets/img/gatheringspaces/carboncyn/BA0B77F2-5F31-48E7-A420-7458CF1C029E.jpeg",
+            "photo3":"assets/img/gatheringspaces/carboncyn/0A420C71-EB29-40BF-B071-C60A12CFBD66.jpeg",
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.83523559570312,
+               33.91469540105239
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":5,
+         "properties":{
+            "NAME":"Turtle Rock Picnic Tables",
+            "TEL":"949-724-6620",
+            "URL":"https://www.cityofirvine.org/parks-facilities/turtle-rock-community-center",
+            "ADDRESS1":"1 Sunnyhill Dr Irvine, CA 92603",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10019,
+            "photo1":"assets/img/gatheringspaces/turtlerockpark/5B280593-1FF0-40A1-84FA-08426900F5A6.jpeg",
+            "photo2":"assets/img/gatheringspaces/turtlerockpark/20211001_173231.jpg",
+            "photo3":"assets/img/gatheringspaces/turtlerockpark/20211001_173519.jpg",
+            "photo4":"assets/img/gatheringspaces/turtlerockpark/20211001_174632.jpg",
+            "photo5":"assets/img/gatheringspaces/turtlerockpark/20211001_174704.jpg",
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.80646085739136,
+               33.63295147014973
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":6,
+         "properties":{
+            "NAME":"Laguna Niguel Regional Park Picnic Shelter 12",
+            "TEL":"949-923-2240",
+            "URL":"https://www.ocparks.com/parks-trails/laguna-niguel-regional-park",
+            "ADDRESS1":"28241 La Paz Road Laguna Niguel, CA 92677",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "photo1":"assets/img/gatheringspaces/niguelregional_shelter12/20211105_123226_HDR.jpg",
+            "photo2":"assets/img/gatheringspaces/niguelregional_shelter12/20211105_123048_HDR.jpg",
+            "photo3":"assets/img/gatheringspaces/niguelregional_shelter12/BD41077C-5442-4FD2-9A76-7A8361B25BA7.jpeg",
+            "photo4":"assets/img/gatheringspaces/niguelregional_shelter12/20211105_124215.jpg",
+            "photo5":"assets/img/gatheringspaces/niguelregional_shelter12/20211105_130336_HDR.jpg",
+            "photo6":"assets/img/gatheringspaces/niguelregional_shelter12/1A52FE55-7EB7-4C30-956B-815FDD8E80B7.jpeg",
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.70416140556337,
+               33.540922959064545
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":7,
+         "properties":{
+            "NAME":"Niguel Botanical Gardens",
+            "TEL":"(949) 425-5100",
+            "URL":"http://niguelbotanicalpreserve.org/",
+            "ADDRESS1":"29751 Crown Valley Pkwy, Laguna Niguel, CA 92677",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10027,
+            "USE1":"parties",
+            "USE2":"picnics",
+            "USE3":"weddings"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.7103465795517,
+               33.531412201421105
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":8,
+         "properties":{
+            "NAME":"Orange County Great Park",
+            "TEL":"(949) 724-6247",
+            "URL":"https://www.cityofirvine.org/orange-county-great-park",
+            "ADDRESS1":"8000 Great Park Blvd, Irvine, CA 92618",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10023,
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.74011373519897,
+               33.67226493911143
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":9,
+         "properties":{
+            "NAME":"Huntington Central Park Trails Picnic Tables/Gathering Spaces",
+            "TEL":"(714) 536-5486",
+            "URL":"https://huntingtonbeachca.gov/residents/parks_facilities/parks/huntington-beach-central-park.cfm",
+            "ADDRESS1":"18381 Goldenwest St, Huntington Beach, CA 92648",
+            "ADDRES2":"Frnt",
+            "CITY":"New York",
+            "ZIP":10003,
+            "photo3":"",
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -118.00449371337889,
+               33.70302800988349
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":10,
+         "properties":{
+            "NAME":"San Joaquin Marsh: Duck Club & Picnic Area",
+            "TEL":"+19494535300",
+            "URL":"https://www.irwd.com/san-joaquin-marsh/san-joaquin-marsh",
+            "ADDRESS1":"Parking lot, 15 Riparian View, Irvine, CA 92612",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10011,
+            "photo1":"assets/img/gatheringspaces/duckclub/20211205_141811_HDR.jpg",
+            "photo2":"",
+            "photo3":"assets/img/gatheringspaces/marsh/20211205_145819_HDR.jpg",
+            "photo4":"assets/img/gatheringspaces/marsh/Message_1633115596949.jpg",
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.84183382987976,
+               33.660683531902045
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":11,
+         "properties":{
+            "NAME":"Oso Viejo Community Park",
+            "TEL":"+19494703061",
+            "URL":"https://cityofmissionviejo.org/places/parks/oso-viejo",
+            "ADDRESS1":"24932 Veterans Way, Mission Viejo, CA 92692",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10019,
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.65142917633058,
+               33.60182376607769
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":12,
+         "properties":{
+            "NAME":"Irvine Ranch Historic Park",
+            "TEL":"+19499233748",
+            "URL":"http://ocparks.com/historic/irvineranch",
+            "ADDRESS1":"13042 Old Myford Rd, Irvine, CA 92602",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10014,
+            "USE1":"",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.78538942337036,
+               33.73074640211176
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":13,
+         "properties":{
+            "NAME":"Canyon Park",
+            "TEL":"+17147545300",
+            "URL":"http://www.costamesaca.gov/?page=1209",
+            "ADDRESS1":"970 Arbor St, Costa Mesa, CA 92627",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10023,
+            "photo1":"assets/img/gatheringspaces/cynpark/20211231_163824_HDR.jpg",
+            "photo2":"assets/img/gatheringspaces/cynpark/20211231_170853_HDR.jpg",
+            "photo3":"assets/img/gatheringspaces/cynpark/20211231_170853_HDR.jpg",
+            "photo4":"assets/img/gatheringspaces/cynpark/20211231_163521_HDR.jpg",
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.94064640998842,
+               33.647341104297574
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":14,
+         "properties":{
+            "NAME":"Heritage Hill Historic Sites",
+            "TEL":"+19499232230",
+            "URL":"http://ocparks.com/historic/heritage/",
+            "ADDRESS1":"25151 Serrano Rd, Lake Forest, CA 92630",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "photo1":"assets/img/gatheringspaces/heritagehill/20211205_162435.jpg",
+            "photo2":"assets/img/gatheringspaces/heritagehill/20211205_162514.jpg",
+            "photo3":"",
+            "photo4":"",
+            "USE1":"parties",
+            "USE2":"picnics",
+            "USE3":"weddings"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.69146919250487,
+               33.64763583889387
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":15,
+         "properties":{
+            "NAME":"Nature Park",
+            "TEL":"+19494613450",
+            "URL":"http://www.lakeforestca.gov/Facilities/Facility/Details/Nature-Park-15",
+            "ADDRESS1":"26215 Dimension Dr, Lake Forest, CA 92630",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.67273664474486,
+               33.663282117458465
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":16,
+         "properties":{
+            "NAME":"Frank G Bonelli Regional Park",
+            "TEL":"+19095998411",
+            "URL":"http://www.bonellipark.org/",
+            "ADDRESS1":"120 E Via Verde Dr, San Dimas, CA 91773",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10012,
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.8004741668701,
+               34.082379327808304
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":17,
+         "properties":{
+            "NAME":"Griffith Park Picnic Areas",
+            "TEL":"+13239134688",
+            "URL":"https://www.google.com/maps/search/griffith+park+picnic+areas/@34.1369716,-118.3098262,7165m/data=!3m2!1e3!4b1",
+            "ADDRESS1":"various within Griffith Park",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -118.29631805419922,
+               34.121752800698125
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":18,
+         "properties":{
+            "NAME":"Franklin Canyon Park",
+            "TEL":"+13108587272",
+            "URL":"https://mrca.ca.gov/parks/park-listing/franklin-canyon-park/",
+            "ADDRESS1":"2600 Franklin Canyon Dr, Beverly Hills, CA 90210",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "USE1":"parties",
+            "USE2":"picnics",
+            "USE3":"weddings"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -118.41184616088867,
+               34.12217912790942
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":19,
+         "properties":{
+            "NAME":"Hart Park",
+            "TEL":"+17147442225",
+            "URL":"http://www.cityoforange.org/Facilities/Facility/Details/Hart-Park-26",
+            "ADDRESS1":"701 S Glassell St, Orange, CA 92866",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10019,
+            "photo1":"assets/img/gatheringspaces/hartpark/2E411B1E-4348-4CC6-9D46-C91D430A3F1B.jpeg",
+            "photo2":"assets/img/gatheringspaces/hartpark/20D84ABC-9D50-4323-9E78-338C90A4B976.jpeg",
+            "photo3":"assets/img/gatheringspaces/hartpark/20D84ABC-9D50-4323-9E78-338C90A4B976.jpeg",
+            "photo4":"assets/img/gatheringspaces/hartpark/3B61A228-A619-4E71-8C3B-4A15CC985BE5.jpeg",
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.8504705429077,
+               33.77675736299181
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":20,
+         "properties":{
+            "NAME":"Ralph B. Clark Regional Park",
+            "TEL":"+17149733170",
+            "URL":"http://www.ocparks.com/clarkpark/",
+            "ADDRESS1":"8800 Rosecrans Ave, Buena Park, CA 90621",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.97870159149169,
+               33.89360923259875
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":21,
+         "properties":{
+            "NAME":"Hillcrest Park",
+            "TEL":"(714) 738-6575",
+            "URL":"https://www.cityoffullerton.com/Home/Components/FacilityDirectory/FacilityDirectory/74/621",
+            "ADDRESS1":"1200 N Harbor Blvd, Fullerton, CA 92832",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "USE1":"parties",
+            "USE2":"picnics",
+            "USE3":"weddings"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.92201042175293,
+               33.883527346890205
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":22,
+         "properties":{
+            "NAME":"Fullerton Arboretum",
+            "TEL":"+16572783407",
+            "URL":"http://www.fullertonarboretum.org/",
+            "ADDRESS1":"1900 Associated Rd, Fullerton, CA 92831",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10003,
+            "USE1":"parties",
+            "USE2":"picnics",
+            "USE3":"weddings"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.8834080696106,
+               33.886715916608395
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":23,
+         "properties":{
+            "NAME":"El Dorado Nature Center",
+            "TEL":"+15625701745",
+            "URL":"http://www.longbeach.gov/park/park-and-facilities/parks-centers-pier/el-dorado-nature-center/",
+            "ADDRESS1":"7550 E Spring St, Long Beach, CA 90815",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10014,
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -118.08671951293944,
+               33.823082321922676
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":24,
+         "properties":{
+            "NAME":"Mile Square Regional Park",
+            "TEL":"+17149736600",
+            "URL":"http://ocparks.com/parks/mile/",
+            "ADDRESS1":"16801 Euclid St, Fountain Valley, CA 92708",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10019,
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.94715881347655,
+               33.72376856418221
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":25,
+         "properties":{
+            "NAME":"Centennial Park",
+            "TEL":"+17145714254",
+            "URL":"http://www.santa-ana.org/parks/",
+            "ADDRESS1":"3000 W Edinger Ave, Santa Ana, CA 92704",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10009,
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.91050910949708,
+               33.72626708797698
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":26,
+         "properties":{
+            "NAME":"Craig Regional Park",
+            "TEL":"+17149733180",
+            "URL":"http://ocparks.com/parks/ted",
+            "ADDRESS1":"3300 N State College Blvd, Fullerton, CA 92835",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.8854465484619,
+               33.901837733006374
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":27,
+         "properties":{
+            "NAME":"Laguna Niguel Picnic Shelter 10",
+            "TEL":"949-923-2240",
+            "URL":"https://www.ocparks.com/parks-trails/laguna-niguel-regional-park",
+            "ADDRESS1":"28241 La Paz Road Laguna Niguel, CA 92677",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10003,
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.70832419395447,
+               33.548655547049805
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":28,
+         "properties":{
+            "NAME":"Cedar Grove Park",
+            "TEL":"714-573-3326",
+            "URL":"https://www.tustinca.org/Facilities/Facility/Details/Cedar-Grove-Park-11",
+            "ADDRESS1":"11385 Pioneer Rd, Tustin, CA 92782",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10036,
+            "USE1":"parties",
+            "USE2":"picnics"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.76958048343657,
+               33.75126170600079
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "id":29,
+         "properties":{
+            "NAME":"George Key Ranch",
+            "TEL":"+17149733191",
+            "URL":"https://www.ocparks.com/historic-sites/george-key-ranch-historic-park",
+            "ADDRESS1":"625 W Bastanchury Rd, Placentia, CA 92870",
+            "ADDRES2":null,
+            "CITY":"New York",
+            "ZIP":10019,
+            "photo1":"assets/img/gatheringspaces/georgekey/20211204_140448_HDR.jpg",
+            "photo2":"assets/img/gatheringspaces/georgekey/20211204_140456_HDR.jpg",
+            "photo3":"assets/img/gatheringspaces/georgekey/0211204_140613.jpg",
+            "photo4":"assets/img/gatheringspaces/georgekey/20211204_140926_HDR.jpg",
+            "photo5":"assets/img/gatheringspaces/georgekey/20211204_141223_HDR.jpg",
+            "photo6":"assets/img/gatheringspaces/georgekey/20211204_141318.jpg",
+            "photo7":"assets/img/gatheringspaces/georgekey/20211204_141550_HDR.jpg",
+            "photo8":"assets/img/gatheringspaces/georgekey/20211204_141627_HDR.jpg",
+            "photo9":"assets/img/gatheringspaces/georgekey/20211204_141648_HDR.jpg",
+            "USE1":"parties",
+            "USE2":"picnics",
+            "USE3":"weddings"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.87492692470549,
+               33.89700892845679
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NAME":"Turtle Rock Nature Center",
+            "ADDRESS1":"1 Sunnyhill Drive Irvine, CA 92603",
+            "URL":"https://www.cityofirvine.org/parks-facilities/turtle-rock-nature-center",
+            "TEL":"949-724-6738",
+            "photo9":"",
+            "USE1":"parties"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.80456721782684,
+               33.63349637284849
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NAME":"Irvine Ranch Outdoor Education Center",
+            "ADDRESS1":"2 Irvine Park Rd, Orange, CA 92869",
+            "URL":"https://www.outdooreducationcenter.org/",
+            "TEL":"(714) 923-3191",
+            "photo9":"",
+            "USE1":"parties",
+            "USE2":"picnics",
+            "USE3":"weddings"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.75381445884705,
+               33.80331080120085
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "TEL":"(714) 573-3000",
+            "NAME":"Citrus Ranch Park",
+            "ADDRESS1":"2910 Portola Pkwy, Tustin, CA 92782",
+            "URL":"https://www.tustinca.org/Facilities/Facility/Details/Citrus-Ranch-Park-13",
+            "photo9":"",
+            "USE1":"parties",
+            "USE2":"picnics",
+            "USE3":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.77315855026244,
+               33.744664690809564
+            ]
+         }
+      }
+   ]
+}
